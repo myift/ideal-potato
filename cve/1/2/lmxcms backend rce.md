@@ -40,8 +40,7 @@ File: `c/admin/TemplateAction.class.php`
 ```php
 file::put($this->config['template'].$dir.'/'.$_POST['filename'],string::stripslashes($_POST['temcontent']));
 ```
-
-[![image-20260412233643594](./../../source/imgs/lmxcms backend rce/image-20260412233643594.png)](https://github.com/myift/ideal-potato/blob/a664f716d2e725d4e4d4b449430b92c77ad8a484/cve/source/imgs/lmxcms%20backend%20rce/image-20260412233643594.png)
+https://github.com/myift/ideal-potato/blob/main/cve/source/imgs/lmxcms%20backend%20rce/image-20260412233643594.png?raw=true
 
 
 
